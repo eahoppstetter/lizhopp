@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <Routes>
-      <Route path="/countdown" element={<HappyCanDay/>}/>
+      <Route path="/" element={<HappyCanDay/>}/>
     </Routes>
     </>
   )
